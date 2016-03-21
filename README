@@ -1,0 +1,4 @@
+g++ -c a.h
+g++ -c A.cpp
+g++ -o A A.cpp
+
